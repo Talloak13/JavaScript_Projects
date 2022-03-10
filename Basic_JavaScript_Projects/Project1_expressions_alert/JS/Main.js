@@ -6,7 +6,7 @@ document.write (Y);
 
 document.write (3+3); // This is an expression inside a statement
 
-function My_Frist_Function() {
+function My_First_Function() {
     var str = "This is the button text!";
     document.getElementById("Button_Text").innerHTML = str;
 }

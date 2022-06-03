@@ -2,6 +2,6 @@
 These are some small projects I made using JavaScript.
 
 # Projects
-Pizza Menu
-Tic-Tac-Toe Game
-Calculator
+Pizza Menu <br>
+Tic-Tac-Toe Game <br>
+Calculator <br>
